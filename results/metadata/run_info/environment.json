@@ -1,0 +1,6 @@
+{
+  "device": "cuda",
+  "cuda_available": true,
+  "cuda_device_name": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+  "python_entry": "C:\\Users\\16544\\Desktop\\logP\\logp_project\\cli.py"
+}

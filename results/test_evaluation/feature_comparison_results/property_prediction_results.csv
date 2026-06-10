@@ -1,0 +1,5 @@
+feature_set,target,model,fairness_note,rmse,mae,r2
+rdkit_2d,logP,RandomForestRegressor,rdkit_filtered_removed_13,0.47768620511665366,0.3659126186726346,0.8671209881908377
+maccs_keys,logP,RandomForestRegressor,standard,0.7504148310786194,0.5851391099158446,0.6720755431148145
+encoder_memory,logP,RandomForestRegressor,standard,0.8108111045747769,0.6183205613333624,0.6171661187607683
+morgan_fp,logP,RandomForestRegressor,standard,0.837540274519113,0.6592986892516493,0.5915090960618837

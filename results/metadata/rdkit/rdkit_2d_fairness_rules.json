@@ -1,0 +1,12 @@
+{
+  "logP": {
+    "removed_count": 13,
+    "removed_exact_names": [
+      "MolLogP"
+    ],
+    "removed_prefixes": [
+      "SlogP_VSA"
+    ],
+    "kept_count": 204
+  }
+}

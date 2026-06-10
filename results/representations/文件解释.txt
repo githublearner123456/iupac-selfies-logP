@@ -1,0 +1,1 @@
+row_ids 是 encoder_embedding 的样本索引，对应用于追踪每个向量对应的原始分子。

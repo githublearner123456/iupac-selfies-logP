@@ -1,0 +1,17 @@
+{
+  "epochs_ran": 85,
+  "best_epoch": 70,
+  "best_valid_loss": 0.8399151632125857,
+  "best_valid_joint_loss": 1.025275290148399,
+  "best_valid_property_loss": 0.3708254790166165,
+  "best_valid_token_acc": 0.8504278261975953,
+  "final_epoch": 85,
+  "final_train_loss": 0.6508518565050929,
+  "final_valid_loss": 0.8419989048553048,
+  "final_valid_joint_loss": 1.0355561421288315,
+  "final_valid_property_loss": 0.38717983871513756,
+  "final_valid_token_acc": 0.8553502131178828,
+  "best_valid_exact_match": 0.006194978806651451,
+  "best_valid_avg_edit_distance": 19.23866970981415,
+  "best_valid_normalized_edit_distance": 0.4794387181351431
+}

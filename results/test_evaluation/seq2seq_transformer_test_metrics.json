@@ -1,0 +1,9 @@
+{
+  "test_loss": 0.851131889124057,
+  "test_property_loss": 0.4091310195010222,
+  "test_joint_loss": 1.0557794882647176,
+  "test_token_acc": 0.8474630265285156,
+  "test_exact_match": 0.007173133355070101,
+  "test_avg_edit_distance": 19.304858167590478,
+  "test_normalized_edit_distance": 0.48322233253509184
+}
