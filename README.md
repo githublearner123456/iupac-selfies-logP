@@ -250,5 +250,5 @@ IUPAC 名称：N-[1-(4-methylsulfonyl-2-nitrophenyl)piperidin-4-yl]methanesulfon
 sefies:[C][S][=Branch1][C][=O][=Branch1][C][=O][N][C][C][C][N][Branch2][Ring1][Branch2][C][=C][C][=C][Branch1][=Branch2][S][Branch1][C][C][=Branch1][C][=O][=O][C][=C][Ring1][#Branch2][N+1][=Branch1][C][=O][O-1][C][C][Ring2][Ring1][Ring1]
 logP:0.5163
 
-- 结论：第一，由于前面的四种分子表征可知，iupac位于第三因此效能不佳，由分子生成案例可知与logP真实值差距较大。第二，由于训练分子数据仅为三万多个，有可能训练集和测试集中的分子结果复杂程度和logp分布差异，也有可能是iupac不擅长logP任务，最终seflies生成结果也不佳。
+- 结论：第一，由于前面的四种分子表征可知，iupac位于第三因此效能不佳，有可能训练集和测试集中的分子结果复杂程度和logp分布差异，由分子生成案例可知与logP真实值差距较大。第二，即便250k数据集分子数量充足，但是通过脚本将这些分子转化为iupac后，分子数据仅为三万多个，模型可能得不到充足的训练，最终seflies生成结果不佳。
 - 注释：生成案例采用测试集中的分子
